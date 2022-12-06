@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rishabh Chandrode 😎</h1>
-<h3 align="center">Computer Engineering student at UIT RGPV Bhopal.A Competitive coder, software-Engineering. Effective student committed to learning and developing skills in software engineering.</h3>
+<h3 align="center">Hello, My name is Rishabh Chandrode.
+a aspiring Software Engineering.
+I am persuing  my bachelors degree  in Computer Science and engineering
+from University Institute of Technology, Rajeev Gandhi Technological
+ University Bhopal. I'm mainly skilled with C++ and JavaScript,
+ also proficient in data structures and algorithms.
+ I have worked on 4 projects to date and
+ I have secured 3 rank in intra-collage coding competition.
+ Apart from coding I enjoy  playing guitar and listening music
+</h3>
 
 
 ## 🛠 Skills
